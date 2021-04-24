@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AarLibrary", "AarLibrary\AarLibrary.csproj", "{89DF8E43-8DF6-427C-A245-385CD9BA05CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "App1\App1.csproj", "{5904C987-4C71-4AC9-8F91-FA32D93A5F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DF8E43-8DF6-427C-A245-385CD9BA05CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DF8E43-8DF6-427C-A245-385CD9BA05CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DF8E43-8DF6-427C-A245-385CD9BA05CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DF8E43-8DF6-427C-A245-385CD9BA05CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5904C987-4C71-4AC9-8F91-FA32D93A5F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5904C987-4C71-4AC9-8F91-FA32D93A5F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5904C987-4C71-4AC9-8F91-FA32D93A5F16}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5904C987-4C71-4AC9-8F91-FA32D93A5F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5904C987-4C71-4AC9-8F91-FA32D93A5F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5904C987-4C71-4AC9-8F91-FA32D93A5F16}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058B6570-DD59-4625-9EBF-95EFE620D305}
+	EndGlobalSection
+EndGlobal
